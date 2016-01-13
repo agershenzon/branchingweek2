@@ -8,3 +8,7 @@ p {
   padding-top: 20px;
   display: none;
 }
+.page-header {
+  text-align: center;
+  padding-bottom: 20px;
+}
