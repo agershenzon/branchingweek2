@@ -3,3 +3,8 @@ img {
   margin- right: 4px;
   width: 98%;
 }
+p {
+  text-align: justify;
+  padding-top: 20px;
+  display: none;
+}
